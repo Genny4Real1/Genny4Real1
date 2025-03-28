@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Genny4Real1
+- 👋 Hi, I’m Andrea Russo, also known as @Genny4Real1
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on game modifications
