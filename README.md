@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea, also known as @Genny4Real1
 - 👀 I’m interested in videogame development and engine development
-- 🌱 I’m currently learning C++ amd Unity
+- 🌱 I’m currently learning C++ ansd Unity
 - 💞️ I’m looking to collaborate on game development
 - 📫 Feel free to send me a message on Github
 
